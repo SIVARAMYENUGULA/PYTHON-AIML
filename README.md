@@ -1,2 +1,2 @@
-# PYTHON-AIML Project
+# PYTHON-AIML PROJECT
 Hand Sign Detection Project
